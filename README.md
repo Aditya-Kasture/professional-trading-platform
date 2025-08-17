@@ -42,6 +42,7 @@ A comprehensive, professional-grade trading platform built with PyQt6 and Intera
 
 ### 1. Clone the Repository
 git clone https://github.com/yourusername/professional-trading-platform.git
+
 cd professional-trading-platform
 
 
@@ -240,4 +241,5 @@ This software is provided for educational and informational purposes only. Tradi
 ---
 
 **⚡ Happy Trading! Remember to always trade responsibly and never risk more than you can afford to lose.**
+
 
