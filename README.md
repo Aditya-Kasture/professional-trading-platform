@@ -1,4 +1,4 @@
-# Professional Trading Platform v3.0
+# Professional Trading Platform using TWS's ib_sync API
 
 A comprehensive, professional-grade trading platform built with PyQt6 and Interactive Brokers API integration. Features a TWS-style interface with real-time market data, advanced charting, portfolio management, and automated trading capabilities.
 
@@ -241,5 +241,6 @@ This software is provided for educational and informational purposes only. Tradi
 ---
 
 **⚡ Happy Trading! Remember to always trade responsibly and never risk more than you can afford to lose.**
+
 
 
